@@ -1,0 +1,18 @@
+{
+  "name": "language-sol",
+  "version": "0.1.0",
+  "description": "Provides basic syntax highlighting for Sol files",
+  "keywords": [
+      "sol",
+      "lua",
+      "grammar",
+      "syntax"
+  ],
+  "repository": "https://github.com/andsveking/language-sol",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
